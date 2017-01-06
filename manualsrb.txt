@@ -1,0 +1,23 @@
+
+  ______  ______  __   __       ______  ______   ______   __    __   ______    
+ /\  ___\/\__  _\/\ "-.\ \     /\__  _\/\  ___\ /\  == \ /\ "-./  \ /\  ___\   
+ \ \  __\\/_/\ \/\ \ \-.  \    \/_/\ \/\ \  __\ \ \  __< \ \ \-./\ \\ \___  \  
+  \ \_\     \ \_\ \ \_\\"\_\      \ \_\ \ \_____\\ \_\ \_\\ \_\ \ \_\\/\_____\ 
+   \/_/      \/_/  \/_/ \/_/       \/_/  \/_____/ \/_/ /_/ \/_/  \/_/ \/_____/ 
+        
+	Dobrodosli u korisnicko uputstvo igre FTN Terms
+
+	Jeste li sposobni da zavrsite testove i ispite 
+	koji su vam na raspolaganju u prvom semestru?
+	Hocete li potonuti pod paljbom pitanja ili cete
+	ih resiti pre nego sto teret postane prevelik
+	i pitanja prosto uniste vas planirani raspored.
+
+	Igra se moze igrati pomocu tastature i misa.
+
+	Velicina table mora biti veca od 5x5 i da ne 
+	prelazi velicinu od 26x26.
+
+	Copyright  (c) 2014. Viktor Sanca <viktor.sanca@gmail.com>	
+	Za vise detalja procitajte GNU General Public Licence
+

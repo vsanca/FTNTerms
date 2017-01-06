@@ -1,0 +1,11 @@
+   Nova partija  
+ Tabla rezultata 
+     Opcije      
+    Uputstvo     
+     Zatvori     
+Sigurno?Y/N
+  Boja korisnika  
+   Jezik: 
+    ENGLISH   
+    SRPSKI    
+   Nazad    

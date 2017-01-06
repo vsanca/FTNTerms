@@ -1,0 +1,29 @@
+Dobrodosli u prvi semestar!
+Velicina table:
+Izaberite tezinu:
+1. Mamina maza    
+2. Redovan student 
+3. Aktivan student 
+4. Buduci profesor
+Unesite koordinate za
+kolokvijum(a) na raspolaganju:
+Pogresan unos! Pokusajte ponovo.
+Rezultat:
+Sledeci kolokvijum!                    
+Povecajte velicinu terminala!
+Koji da bude sledeci termin?
+Pali ste ovaj kolokvijum...
+Polozili ste ovaj kolokvijum!
+Zasto na isti kolokvijum opet pokusavate izaci?
+Unesite ime studenta:
+Pali ste na svim kolokvijumima!
+Uspeli ste da polozite kolokvijume!
+Vasa ocena je:
+Ponovno polaganje kolokvijuma? Y/N
+Engleski
+OET
+Fizika
+Diskretna
+Analiza
+
+

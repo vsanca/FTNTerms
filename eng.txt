@@ -1,0 +1,17 @@
+  New game   
+ High scores 
+   Options   
+ User Manual 
+    Quit     
+Are you sure? Y/N
+  User Color  
+   Language: 
+    ENGLISH   
+    SRPSKI    
+    Back    
+  
+
+
+  
+
+

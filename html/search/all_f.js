@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['s1',['s1',['../struct_data.html#a1b21a873351104a2621c60805a0c50d4',1,'Data']]],
+  ['s2',['s2',['../struct_data.html#a0a7e57d7e936f21f1a0b704e9209e895',1,'Data']]],
+  ['s3',['s3',['../struct_data.html#ada43cca196d740f91cbc58fa4b65b2a7',1,'Data']]],
+  ['s4',['s4',['../struct_data.html#a30fbe60cc3c537cb1d830d81f6c8160d',1,'Data']]],
+  ['s5',['s5',['../struct_data.html#a1adf2d83990b8214e867c7f8d2c5e265',1,'Data']]],
+  ['score',['score',['../struct_data.html#a8c5cd9b525ee73a24b1d9d8e34982d1c',1,'Data::score()'],['../struct_scores.html#a8c5cd9b525ee73a24b1d9d8e34982d1c',1,'Scores::score()'],['../_f_t_n_terms1_80_80_8c.html#a75a525f8a6e26b93571209dc4d5d1962',1,'score():&#160;FTNTerms1.0.0.c']]],
+  ['score_5ftext',['score_text',['../struct_data.html#aff43f1bad2109096b0eae57a6f669e61',1,'Data']]],
+  ['scores',['Scores',['../struct_scores.html',1,'']]],
+  ['scoreupdate',['ScoreUpdate',['../_f_t_n_terms1_80_80_8c.html#aef4690954237cdb45843ba28a9740a22',1,'FTNTerms1.0.0.c']]],
+  ['search',['Search',['../_f_t_n_terms1_80_80_8c.html#a5b6f0e766b032dd534f70d63886a5a2b',1,'FTNTerms1.0.0.c']]],
+  ['setaiboard',['SetAIBoard',['../_f_t_n_terms1_80_80_8c.html#a9fb8330e62faf0bbdb209be7dd874884',1,'FTNTerms1.0.0.c']]],
+  ['setaicoordinates',['SetAICoordinates',['../_f_t_n_terms1_80_80_8c.html#a5a721d4a5cb75d8bd142bdc67cbe9932',1,'FTNTerms1.0.0.c']]],
+  ['setaiposition',['SetAIPosition',['../_f_t_n_terms1_80_80_8c.html#ae194e9077b4797480b37b10c06d13651',1,'FTNTerms1.0.0.c']]],
+  ['setcoordinates',['SetCoordinates',['../_f_t_n_terms1_80_80_8c.html#ac3c606865df3cb9e6d713139821f2962',1,'FTNTerms1.0.0.c']]],
+  ['setposition',['SetPosition',['../_f_t_n_terms1_80_80_8c.html#a3dfbd371db7f421360b8dc7bf8902d8f',1,'FTNTerms1.0.0.c']]],
+  ['setuserboard',['SetUserBoard',['../_f_t_n_terms1_80_80_8c.html#a74928978ac3d03c23b22c4e70d9597d7',1,'FTNTerms1.0.0.c']]],
+  ['ships',['Ships',['../struct_ships.html',1,'Ships'],['../_f_t_n_terms1_80_80_8c.html#a74b49636cf0091668e06890405a94759',1,'ships():&#160;FTNTerms1.0.0.c']]],
+  ['signal',['signal',['../struct_menu.html#aa67a2e3705c8f256607d31ac0e646d5f',1,'Menu']]],
+  ['size',['size',['../struct_ships.html#a439227feff9d7f55384e8780cfc2eb82',1,'Ships']]],
+  ['size_5fx',['size_x',['../struct_data.html#aec1dee03c858e0d3910c40c209890ab0',1,'Data']]],
+  ['size_5fy',['size_y',['../struct_data.html#a22aeb82e7a98517be5f90c810e423af0',1,'Data']]],
+  ['standardprocedure',['StandardProcedure',['../menu_8h.html#ae165e9b6ece128d0abf4d2a7f09c3bc9',1,'menu.h']]],
+  ['start_5fx',['start_x',['../struct_box.html#a2aa47394e7d93647dd76ec06f28c419d',1,'Box']]],
+  ['start_5fy',['start_y',['../struct_box.html#a88ee07642c2e4d4dc92b8ab0b2ca9ee1',1,'Box']]]
+];

@@ -1,0 +1,29 @@
+Welcome to the first semester!
+Insert board size:
+Select difficulty:
+1. Wimp           
+2. Regular student 
+3. Active student 
+4. Future professor
+Insert coordinates for:
+test(s) on disposal:
+Wrong input! Try again.
+Score:
+Next test!                             
+Increase the size of terminal!
+Which date will be next?
+You've failed this time...
+You've passed that test!
+Why are you trying to take that test twice?
+Insert the name of the student:
+You have failed all the tests!
+You have managed to pass the tests!
+Your grade is:
+Take tests again? Y/N
+English
+ET
+Physics
+Algebra
+Analysis
+
+

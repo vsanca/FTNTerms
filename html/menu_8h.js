@@ -1,0 +1,28 @@
+var menu_8h =
+[
+    [ "Box", "struct_box.html", "struct_box" ],
+    [ "Menu", "struct_menu.html", "struct_menu" ],
+    [ "menu", "menu_8h.html#a2ffc0e804434b0268d50c6403d878b78", null ],
+    [ "winbox", "menu_8h.html#a2e83b7ae663a7d098888de0375d10f57", null ],
+    [ "ClearAll", "menu_8h.html#a7907bb6985af3ecc22cd5e8d976aaab7", null ],
+    [ "CreateMenu", "menu_8h.html#a9e461acd52a962d9d098631bf5089d30", null ],
+    [ "CreateOptions", "menu_8h.html#acc85df0361b9bf90d3916f4ece30f2b7", null ],
+    [ "DeleteAll", "menu_8h.html#ada8d22bbcc9036109f355a1bce0fc708", null ],
+    [ "DisplayHighScore", "menu_8h.html#a75c015fb4959022d6cdcbc1b1fb26610", null ],
+    [ "DisplayMessage", "menu_8h.html#a1938bb9bb8b625ff33f8ca49ebe7818d", null ],
+    [ "DisplayUserManual", "menu_8h.html#aacc349fb2437507df6d6415cb623be61", null ],
+    [ "ExitProgram", "menu_8h.html#aeeeb063f8abb1f39ddc18fdb2197e7ef", null ],
+    [ "InitializeBox", "menu_8h.html#a707e0a6048f768be6449a641a3c50dca", null ],
+    [ "InitializeMain", "menu_8h.html#a5c37bf9c8270aed3147490e6a3f17a49", null ],
+    [ "InitializeNoBox", "menu_8h.html#a35642bc5c1c22159ca81b3b64d1c9b36", null ],
+    [ "MenuChoice", "menu_8h.html#ab1d6a612535f625f1a7c6ef0d63b37f6", null ],
+    [ "MouseChoice", "menu_8h.html#ae59dd5f10b705bc9aa698789522b6e23", null ],
+    [ "MouseOptionsChoice", "menu_8h.html#a8f59d888e16cc4d4be71620566d619ca", null ],
+    [ "OptionsChoice", "menu_8h.html#a9cbcbc1360e481086249bbe5e84679b3", null ],
+    [ "PrintBox", "menu_8h.html#a17d0de2a9d121127ae2da6db990efa0b", null ],
+    [ "PrintBoxSpecial", "menu_8h.html#acbe5c5e6b3c4ca9eb1bb291f47d130ec", null ],
+    [ "PrintMenu", "menu_8h.html#ab15ede6fb0d8f9f01b761f228d2fe4a8", null ],
+    [ "PrintOptions", "menu_8h.html#af780386f327e29be131c577f03848474", null ],
+    [ "StandardProcedure", "menu_8h.html#ae165e9b6ece128d0abf4d2a7f09c3bc9", null ],
+    [ "mev", "menu_8h.html#af858757cf4da91658a0c4d40ba855662", null ]
+];

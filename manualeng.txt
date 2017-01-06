@@ -1,0 +1,23 @@
+
+  ______  ______  __   __       ______  ______   ______   __    __   ______    
+ /\  ___\/\__  _\/\ "-.\ \     /\__  _\/\  ___\ /\  == \ /\ "-./  \ /\  ___\   
+ \ \  __\\/_/\ \/\ \ \-.  \    \/_/\ \/\ \  __\ \ \  __< \ \ \-./\ \\ \___  \  
+  \ \_\     \ \_\ \ \_\\"\_\      \ \_\ \ \_____\\ \_\ \_\\ \_\ \ \_\\/\_____\ 
+   \/_/      \/_/  \/_/ \/_/       \/_/  \/_____/ \/_/ /_/ \/_/  \/_/ \/_____/ 
+        
+	Welcome to the FTN Terms user manual.
+
+	Are you capable of finishing the tests and exams
+	you are given in the first semester? Will you sink
+	under the fire of questions or solve them before
+	the burden becomes too big and questions simply
+	destroy your planned schedule.
+
+	The funcionality is available with both keyboard and mouse.
+
+	The size of the board must be more than 5x5 and no 
+	larger than 26x26.	
+
+	Copyright  (c) 2014. Viktor Sanca <viktor.sanca@gmail.com>	
+	For more details see GNU General Public Licence
+
